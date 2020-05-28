@@ -1,2 +1,3 @@
 # hello-world
-My first ever repository ok?
+
+So here goes... A noob just looking around trying things on the internet.
